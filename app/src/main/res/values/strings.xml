@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntentImplicit</string>
+    <string name="button_1">First</string>
+    <string name="button_2">Second</string>
+    <string name="button_3">Third</string>
+    <string name="equipo">EQUIPO 3</string>
+    <string name="integrantes">Integrantes:</string>
+    <string name="i1">- Alexis Alfaro</string>
+    <string name="i2">- Leandro Etcheverry</string>
+    <string name="i3">- Rodrigo Larriva</string>
+    <string name="i4">- Bryan Letelier</string>
+    <string name="i5">- Jefersson Muñoz Zapata</string>
+
+</resources>
